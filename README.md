@@ -1,2 +1,4 @@
 # Andrew-NG-machine-learning-python
-python based assignments for machine learning(Andrew NG)
+my python based assignments for machine learning(Andrew NG) in coursera.
+
+Feel free to use them ^_^
